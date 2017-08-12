@@ -1,0 +1,23 @@
+.login{
+    padding-top: 15%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.carousel{
+    height: 20%;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.center h1,p {
+    padding-left: 50px;
+}
+
+.botones a{
+    margin: 1%;
+}
